@@ -19,6 +19,6 @@ Our automated attendance system is an android based attendance system for univer
 * Observe the current status of attendance, quizes (yet to be implemented)
 
 # To run it you have to install
-*Android Studio 2.3.3
-*Android SDK Platform 23
-*Android SDK Build-Tools 23.0.3
+* Android Studio 2.3.3
+* Android SDK Platform 23
+* Android SDK Build-Tools 23.0.3
