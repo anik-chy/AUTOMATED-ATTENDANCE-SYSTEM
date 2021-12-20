@@ -1,5 +1,5 @@
 # AUTOMATED_ATTENDANCE_SYSTEM
-Our automated attendance system is an android based attendance system for university students. There is two-part to this software. One is for students and another is for teachers. When the teacher wants to take attendance he/she will launch the app and give a secret key to take attendance. Students of the respective class have to be registered students of that class and have to know the passcode otherwise they can not give their attendance. Thus unauthorize access can be handled.
+Our automated attendance system is an android based attendance system for university students. There are two-part to this software. One is for students and another is for teachers. When the teacher wants to take attendance he/she will launch the app and give a secret key to take attendance. Students of the respective class have to be registered students of that class and have to know the passcode otherwise they can not give their attendance. Thus unauthorize access can be handled.
 
 # Features
 
